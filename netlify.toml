@@ -1,0 +1,4 @@
+# Plain static site: Netlify publishes the glidehigher-site folder as it is.
+# README.txt stays at the repo root so it is not published.
+[build]
+  publish = "glidehigher-site"
